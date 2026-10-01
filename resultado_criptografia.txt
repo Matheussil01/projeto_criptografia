@@ -1,0 +1,23 @@
+Felipe Rodrigues RMG:47868684
+Matheus Faustino RMG:47854928
+Lucas Freitas RMG:048587885
+Otovio Estevam RMG:48763390
+Wagner Hideki RMG:47584629
+
+Nosso projeto no github
+github.com/Matheussil01/projeto_criptografia
+
+Projeto de Criptografia
+
+Palavra: coracao
+Quantidade de letras: 7
+SHIFT: 3
+Tipo da sequencia: 3
+Sequencia: Fibonacci
+
+Sequencia utilizada: 1, 1, 2, 3, 5, 8, 13
+
+Camada 1 - Cifra de Cesar: frudfdr
+Camada 2 - Resultado: gswgkle
+
+Arquivo resultado_criptografia.txt criado com sucesso!
